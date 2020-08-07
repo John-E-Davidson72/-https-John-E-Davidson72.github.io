@@ -23,11 +23,11 @@ footer-links:
  #flickr:
   github: John-E-Davidson72
  #instagram:
-  linkedin: www.linkedin.com/in/john-edward-davidson
+  linkedin: https://www.linkedin.com/in/john-edward-davidson/
  #pinterest:
  #rss: # just type anything here for a working RSS icon
  #twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: https://stackoverflow.com/users/13125287/john-davidson
  #youtube: # channel/<your_long_string> or user/<user-name>
  #googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://john-e-davidson72.github.io/my_website/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
