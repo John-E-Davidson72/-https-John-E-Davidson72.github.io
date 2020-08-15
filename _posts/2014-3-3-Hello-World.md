@@ -3,7 +3,7 @@ layout: post
 title: Blog is up and running!
 ---
 
-Welcome to my Blog | A Tech & Energy journey
+Welcome to my Blog - A Tech & Energy journey
 
 <!--![_config.yml]({{ site.baseurl }}/images/config.png)-->
 
