@@ -152,7 +152,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  color: $navtop;
+  background-color: $navtop;
 }
 
 .masthead {
@@ -203,7 +203,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $cobalt;
+  color: $lightGray;
   font-size: 16px;
 
   @include mobile {
