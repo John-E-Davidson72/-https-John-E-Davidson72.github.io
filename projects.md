@@ -10,6 +10,7 @@ Can't say much about this one right now! - Building this around some existing we
 chapter 1 of [this book](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=googshopuk-21&linkCode=df0&hvadid=375498709181&hvpos=&hvnetw=g&hvrand=8546052863628994399&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007293&hvtargid=pla-523968811896&psc=1&th=1&psc=1&tag=&ref=&adgrpid=76471991426&hvpone=&hvptwo=&hvadid=375498709181&hvpos=&hvnetw=g&hvrand=8546052863628994399&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007293&hvtargid=pla-523968811896) (classic regression model should be a great fit).  Have already built some Flask scaffolding
 to support the MVP app, getting a bit ahead of myself here but effort expended on this now will help later on in the
 production phase.  There is even some JS creeping into the project - [this is a great JS reference for any Pythonista](https://realpython.com/python-vs-javascript/).
+Currently doing all the usual Jupyter, Pandas & Scikit-learn data wrangling & checking for statistical significance before ML implementation phase.
 
 ## Foreastr
 
@@ -17,7 +18,7 @@ Was interested to see if I could hook up a Flask app with a couple of the main P
 product validation so decided a forecast P&L would be a good target.  Went back to basics to start - used numpy to do the back end calcs and matplotlib
 to deliver a simple visual.  You can check out the repo here and the MVP app here.  
 
-Need to give [pythonanywhere](https://eu.pythonanywhere.com/) a shout here - their free tier is great for quick deployments of Python apps - and you can tweak the code post deployment.
+Need to give [pythonanywhere](https://eu.pythonanywhere.com/) a shout here - their free tier is great for quick deployments of Python apps - also great for on-the-fly tweaks post deployment.
 
 Have some plans for this one;
 
