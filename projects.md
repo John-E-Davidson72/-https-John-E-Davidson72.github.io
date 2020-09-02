@@ -14,7 +14,6 @@ production phase.  There is even some JS creeping into the project - [this is a 
 Currently doing all the usual Jupyter, Pandas & Scikit-learn data wrangling & checking for statistical significance before ML implementation phase.
 
 ----
-****
 
 ## Forecastr
 
