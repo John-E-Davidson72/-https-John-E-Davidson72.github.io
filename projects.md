@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+----
 
 ## New Machine Learning Project
 
@@ -31,7 +32,6 @@ Have some plans for this one;
 * Improve UX - enhance chart interactivity with Plotly or similar framework
 
 ----
-****
 
 ## Py-Decom
 
