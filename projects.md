@@ -12,6 +12,7 @@ chapter 1 of [this book](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-
 
 Have already built some Flask scaffolding to support the MVP app, getting a bit ahead of myself here but effort expended on this now will help later on in the
 production phase.  There is even some JS creeping into the project - [this is a great JS reference for any Pythonista](https://realpython.com/python-vs-javascript/).
+
 Currently doing all the usual Jupyter, Pandas & Scikit-learn data wrangling & checking for statistical significance before ML implementation phase.  
 
 ----
@@ -35,4 +36,5 @@ Have some plans for this one;
 
 ## Py-Decom
 
-
+This was the first project I tackled back in 2019 after returning to coding (I started my career in the tech industry - too long ago to talk about!).  
+Currently I work in the energy industry (specifically decommissioning) - 
