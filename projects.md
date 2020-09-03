@@ -19,6 +19,8 @@ Currently doing all the usual Jupyter, Pandas & Scikit-learn data wrangling & ch
 
 ## Forecastr
 
+![Forecastr]({{ site.baseurl }}/images/forecastr.png "Forecastr")
+
 Was interested to see if I could hook up a Flask app with a couple of the main Python sci libraries.  I do a lot of work around market sizing and
 product validation so decided a forecast P&L would be a good target.  Went back to basics to start - used numpy to do the back end calcs and matplotlib
 to deliver a simple visual.  You can check out the repo [here](https://github.com/John-E-Davidson72/Forecastr-MVP) and the MVP app [here](https://johndavidson.eu.pythonanywhere.com/).  
