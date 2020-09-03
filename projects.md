@@ -39,4 +39,22 @@ Have some plans for this one;
 ## Py-Decom
 
 This was the first project I tackled back in 2019 after returning to coding (I started my career in the tech industry - too long ago to talk about!).  
-Currently I work in the energy industry (specifically decommissioning) - 
+Working in the energy industry (specifically decommissioning) - I have to process & analyse a lot of regulatory data and reports.  This gets really
+tedious so decided to use my early Python learnings to automate things - this is what I did to speed things up;
+
+* Web scrape all relevant reports (used Beautiful Soup)
+* Convert / flatten to fully searchable format i.e. text (PDFMiner)
+* Build a search function & persist search data for later analysis
+* Open all relevant reports with a single click
+* Extract all well labels (main area of interest) - used different regex combinations here
+
+Built this into a GUI and packaged things up with PyInstaller (clunky!) - then distributed packaged app to users - not the best solution but didn't have
+web dev skills back then.  Got some plans for this one too (I still use it!);
+
+* Port to Flask framework
+* Integrate a natural language classifier to allow context-based searches - either through API or library
+* Experiment with text tagging, chunking, phrase extraction & named entity recognition
+* Build in search analytics
+* Make UI a lot nicer
+
+
