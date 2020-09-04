@@ -38,6 +38,8 @@ Have some plans for this one;
 
 ## Py-Decom
 
+![Py-Decom]({{ site.baseurl }}/images/Py-Decom-web.png "Py-Decom")
+
 This was the first project I tackled back in 2019 after returning to coding (I started my career in the tech industry - too long ago to talk about!).  
 Working in the energy industry (specifically decommissioning) - I have to process & analyse a lot of regulatory data and reports.  This gets really
 tedious so decided to use my early Python learnings to automate things - this is what I did to speed things up;
