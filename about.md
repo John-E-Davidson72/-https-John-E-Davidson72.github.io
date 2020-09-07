@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+![JD]({{ site.baseurl }}/images/me.jpg "me")
+
+I live in Aberdeen, Scotland.
+
+By day I work in the energy industry, bringing best-in-class engineering solutions to the decommissioning market.
 
 ### More Information
 
