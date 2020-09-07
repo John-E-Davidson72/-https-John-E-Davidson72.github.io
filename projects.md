@@ -30,8 +30,7 @@ Need to give [pythonanywhere](https://eu.pythonanywhere.com/) a shout here - the
 Have some plans for this one;
 
 * Build out - add WTForms, CSRF, persistence layer + login / sessions / user management
-* Add extra functionality - currency selection + more app modules such as ROI calculation
-* Make single page app
+* Add extra functionality - currency selection + add other app modules such as ROI calculation
 * Improve UX - enhance chart interactivity with Plotly or similar framework
 
 ----
@@ -59,6 +58,6 @@ web dev skills back then.  Got some plans for this one too (I still use it!);
 * Build in search analytics
 * Make UI a lot nicer
 
-Repo [here](https://github.com/John-E-Davidson72/python-decom-2).
+Repo [here](https://github.com/John-E-Davidson72/python-decom-2).  If you would like the packaged app drop me a line.
 
 
