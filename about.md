@@ -8,12 +8,22 @@ permalink: /about/
 
 I live in Aberdeen, Scotland.
 
-By day I work in the energy industry, bringing best-in-class engineering solutions to the decommissioning market.
+By day I work in the energy industry, bringing best-in-class products to the decommissioning market.
+The great thing about my job is I also get to play in the tech space, working with digital technology
+professionals to deliver high value software and analytics solutions.
 
-### More Information
+My real passion is web development, although I also do a lot of data science work using Python's 
+sci libraries.  I like to combine these aspects to build solutions to real, everyday problems.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Some more stuff about me
+
+* I used to live in Glasgow, miss living there but don't miss the rain!
+* I've worked on a few major energy projects and also had a stint in the automotive industry
+* I started my career in the tech industry (pre internet!) before moving to into engineering
+* I love cycling, especially cyclocross & MTB
+* 
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[john.davidson.ctr@hotmail.co.uk](mailto:john.davidson.ctr@hotmail.co.uk)
