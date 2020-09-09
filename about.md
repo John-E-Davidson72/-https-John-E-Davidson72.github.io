@@ -27,5 +27,5 @@ sci libraries.  I like to combine these two fields to build solutions to real, e
 
 ### Connect
 
-[Email](mailto:john.davidson.ctr@hotmail.co.uk)
-[LinkedIn](www.linkedin.com/in/john-edward-davidson)
+* [Email](mailto:john.davidson.ctr@hotmail.co.uk)
+* [LinkedIn](www.linkedin.com/in/john-edward-davidson)
