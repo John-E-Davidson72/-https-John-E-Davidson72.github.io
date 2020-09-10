@@ -13,7 +13,12 @@ chapter 1 of [this book](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-
 Have already built some Flask scaffolding to support the MVP app, getting a bit ahead of myself here but effort expended on this now will help later on in the
 production phase.  There is even some JS creeping into the project - [this is a great JS reference for any Pythonista](https://realpython.com/python-vs-javascript/).
 
-Currently doing all the usual Jupyter, Pandas & Scikit-learn data wrangling & checking for statistical significance before ML implementation phase.  
+Currently working with Jupyter, Pandas & Scikit-learn, checking for any statistical significance before progressing to ML model selection phase.
+
+I've also got some other work to do for this one:
+
+* Implement CI / CD pipeline
+* Prep for Docker deployment
 
 ----
 
@@ -27,7 +32,7 @@ to deliver a simple visual.  You can check out the repo [here](https://github.co
 
 Need to give [pythonanywhere](https://eu.pythonanywhere.com/) a shout here - their free tier is great for quick deployments of Python apps - also great for on-the-fly tweaks post deployment.
 
-Have some plans for this one;
+Have some plans for this app;
 
 * Build out - add WTForms, CSRF, persistence layer + login / sessions / user management
 * Add extra functionality - currency selection + add other app modules such as ROI calculation
@@ -47,13 +52,14 @@ tedious so decided to use my early Python learnings to automate things - this is
 * Convert / flatten to fully searchable format i.e. text (PDFMiner)
 * Build a search function & persist search data for later analysis
 * Open all relevant reports with a single click
-* Extract all well labels (main area of interest) - used different regex combinations here
+* Extract all well labels (main area of interest)
 
 Built this into a GUI and packaged things up with PyInstaller (clunky!) - then distributed packaged app to users - not the best solution but didn't have
 web dev skills back then.  Got some plans for this one too (I still use it!);
 
 * Port to Flask framework
-* Integrate a natural language classifier to allow context-based searches - either through API or library
+* Integrate proper DB schema
+* Leverage natural language classifier to allow context-based searches - either through API or library
 * Experiment with text tagging, chunking, phrase extraction & named entity recognition
 * Build in search analytics
 * Make UI a lot nicer
