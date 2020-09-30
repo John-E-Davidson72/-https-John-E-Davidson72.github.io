@@ -3,7 +3,7 @@ layout: post
 title: Are SoloLearn mobile tutorials worth your time?
 ---
 
-![SoloLearn]({{ site.baseurl }}/images/sololearn.png "SoloLearn"]
+![SoloLearn]({{ site.baseurl }}/images/sololearn.png "SoloLearn")
 
 [SoloLearn Android](https://play.google.com/store/apps/details?id=com.sololearn&hl=en_GB)     
 [SoloLearn iOS](https://apps.apple.com/us/app/sololearn-learn-to-code/id1210079064)
