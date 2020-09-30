@@ -8,7 +8,7 @@ title: Are SoloLearn mobile tutorials worth your time?
 [SoloLearn Android](https://play.google.com/store/apps/details?id=com.sololearn&hl=en_GB)     
 [SoloLearn iOS](https://apps.apple.com/us/app/sololearn-learn-to-code/id1210079064)
 
-Back when I was still deciding what coding route to go down (Python / JavasScript etc) a colleague of mine introduced me to SoloLearn.  As you can see I’ve racked up a few ‘certs’.
+Back when I was still deciding what coding route to go down (Python / JavasScript etc), a colleague of mine introduced me to SoloLearn.  As you can see I’ve racked up a few ‘certs’.
 Is this platform worth your while if you want to learn to code?
 
 **Yes and no.**
