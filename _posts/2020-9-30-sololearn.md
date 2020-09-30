@@ -34,5 +34,5 @@ The bad:
 
 TBH you’d be better off buying a book or doing a proper online course in your chosen language – check out [this post](https://john-e-davidson72.github.io/my_website/blog-up/).
 
-However, some SoloLearn content is decent enough for reference, the rankings are fun (if that’s your thing), the platform is slick and easy to use - 
+However, some SoloLearn content is decent enough for reference purposes, the rankings are fun (if that’s your thing), the platform is slick and easy to use - 
 just don’t take it too seriously.
